@@ -3,3 +3,4 @@
 
 ## 目录
 1. [docker的使用](https://github.com/big-Totoro6/blog/issues/1)
+2. [大妖怪的问题汇总](https://github.com/big-Totoro6/blog/issues/2)
